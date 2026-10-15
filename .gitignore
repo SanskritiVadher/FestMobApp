@@ -1,0 +1,19 @@
+# Python virtual environments & bytecode
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Android build outputs & local tools
+android-tools/
+.gradle/
+build/
+*/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Include the compiled APK in root if desired, or exclude heavy binary
+# Keeping zenith26-debug.apk tracked so viewers can download APK directly
+!zenith26-debug.apk

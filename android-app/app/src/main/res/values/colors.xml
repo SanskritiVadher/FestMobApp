@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_50">#EEF2FF</color>
+    <color name="brand_100">#E0E7FF</color>
+    <color name="brand_500">#6366F1</color>
+    <color name="brand_600">#4F46E5</color>
+    <color name="brand_700">#4338CA</color>
+    <color name="brand_900">#312E81</color>
+    <color name="accent">#F43F5E</color>
+    <color name="slate_50">#F8FAFC</color>
+    <color name="slate_900">#0F172A</color>
+</resources>
