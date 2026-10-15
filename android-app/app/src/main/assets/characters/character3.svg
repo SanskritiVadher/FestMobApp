@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 190" width="100%" height="100%" fill="none" stroke="#2B2A28" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Gap-toothed Kid flying diamond kite -->
+  <!-- Kid Running Head -->
+  <circle cx="62" cy="85" r="18" fill="#FBF6EA"/>
+  <!-- Messy Reddish Hair -->
+  <path d="M46,78 Q55,60 64,74 Q74,62 78,78" fill="#E5533D"/>
+  <!-- Expressive Big Eyes -->
+  <circle cx="56" cy="84" r="2.5" fill="#2B2A28"/>
+  <circle cx="68" cy="84" r="2.5" fill="#2B2A28"/>
+  <!-- Gap-Toothed Big Grin -->
+  <path d="M52,92 Q62,100 72,92" fill="#ffffff" stroke-width="2.5"/>
+  <rect x="59" y="92" width="4" height="4" fill="#2B2A28"/>
+  <!-- T-shirt -->
+  <path d="M50,103 L74,103 L78,130 L46,130 Z" fill="#F2B84B"/>
+  <!-- Shorts -->
+  <path d="M46,130 L78,130 L80,146 L65,146 L65,138 L60,138 L60,146 L44,146 Z" fill="#8DB580"/>
+  <!-- Energetic Running Legs -->
+  <path d="M48,146 L38,162 L48,166 M76,146 L84,158 L96,156" stroke-width="3.5"/>
+  <!-- Arm raised holding kite spool -->
+  <path d="M72,110 Q90,92 94,76" stroke-width="3"/>
+  <!-- Kite Line -->
+  <path d="M94,76 Q115,48 138,24" stroke="#E5533D" stroke-width="2" stroke-dasharray="4 3"/>
+  <!-- Colorful Diamond Kite -->
+  <polygon points="148,8 165,24 148,40 131,24" fill="#E5533D"/>
+  <line x1="148" y1="8" x2="148" y2="40" stroke-width="2"/>
+  <line x1="131" y1="24" x2="165" y2="24" stroke-width="2"/>
+  <!-- Kite Ribbon Tail with bows -->
+  <path d="M148,40 Q160,56 154,72" stroke="#2B2A28" stroke-width="2"/>
+  <polygon points="152,48 160,50 155,55" fill="#F2B84B"/>
+  <polygon points="150,62 158,64 153,69" fill="#8DB580"/>
+</svg>

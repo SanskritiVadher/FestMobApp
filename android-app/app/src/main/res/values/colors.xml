@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="brand_50">#EEF2FF</color>
-    <color name="brand_100">#E0E7FF</color>
-    <color name="brand_500">#6366F1</color>
-    <color name="brand_600">#4F46E5</color>
-    <color name="brand_700">#4338CA</color>
-    <color name="brand_900">#312E81</color>
-    <color name="accent">#F43F5E</color>
-    <color name="slate_50">#F8FAFC</color>
-    <color name="slate_900">#0F172A</color>
+    <color name="paper_bg">#FBF6EA</color>
+    <color name="paper_card">#FFFCF5</color>
+    <color name="ink_primary">#2B2A28</color>
+    <color name="ink_muted">#6E6B65</color>
+    <color name="ink_light">#E0D8C3</color>
+    <color name="tomato_primary">#E5533D</color>
+    <color name="mustard_yellow">#F2B84B</color>
+    <color name="coral_pink">#F28B82</color>
+    <color name="sage_green">#8DB580</color>
+    <color name="tangerine_orange">#F08A3C</color>
+    <color name="clay_warm">#D9A58F</color>
+
+    <!-- Legacy compatibility aliases -->
+    <color name="brand_50">#FFFCF5</color>
+    <color name="brand_100">#F4EBD0</color>
+    <color name="brand_500">#E5533D</color>
+    <color name="brand_600">#E5533D</color>
+    <color name="brand_700">#B83A26</color>
+    <color name="brand_900">#2B2A28</color>
+    <color name="accent">#E5533D</color>
+    <color name="slate_50">#FBF6EA</color>
+    <color name="slate_900">#2B2A28</color>
 </resources>
